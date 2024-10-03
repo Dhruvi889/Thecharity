@@ -1,0 +1,387 @@
+.firstbg1 {
+    background-color: #ff4800;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    gap: 140px;
+    font-size: 15px;
+}
+
+#home1 {
+    color: #ff4800;
+
+}
+
+.mail {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.btn1 {
+    background-color: #262222;
+    color: white;
+    padding: 20px;
+    width: 180px;
+    border: none;
+    font-size: 15px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.mainatag {
+    display: flex;
+    gap: 30px;
+
+}
+
+.home {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 19px;
+    color: black;
+}
+
+.mainwel {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 70px;
+    align-items: center;
+}
+
+.Lorem {
+    color: gray;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.hrtag {
+    display: flex;
+    justify-content: start;
+    width: 100px;
+    color: #ff4800;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.Read {
+    color: white;
+    background-color: #ff4800;
+    padding: 15px;
+    width: 180px;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.bgimg {
+    background-image: url(./about-bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 220px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 100px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.blackbg {
+    background-color: black;
+    color: white;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.hardwork {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #ff4800;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Hardw {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.mainhardwok {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainterom {
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+
+    padding: 100px;
+}
+
+.subtemor {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 40px;
+}
+
+.imgterom {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: center;
+}
+
+.oragebg {
+    background-color: #ff3700;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px;
+}
+
+.Donatebtn {
+    border: 3px solid white;
+    color: white;
+    padding: 10px;
+    width: 180px;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: transparent;
+}
+
+.mainlast {
+    background-color: #262222;
+    color: white;
+    padding: 50px;
+    margin-top: 0;
+}
+
+.sublast {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+.lastimgs {
+    width: 25%;
+}
+
+.lastLorem {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.lastsvg {
+    display: flex;
+    justify-content: start;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.Privacy {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.Privacy1 {
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.lastsubsvg {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: start;
+}
+
+.colorsvgs {
+    color: #ff4700;
+}
+
+.yourmail {
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    text-align: start;
+    border: none;
+}
+
+.SEND {
+    background-color: #ff4700;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    border: none;
+}
+
+.lastbutton {
+    display: flex;
+    justify-content: start;
+    gap: 0;
+    margin-top: 30px;
+}
+
+.Copyright {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width:800px) {
+    .firstbg1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .mail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .logo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .mainatag {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .mainwel {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Wellcome1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Lorem {
+        margin-top: 0;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .welimg {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .blackbg {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .mainterom {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .imgterom {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+
+    }
+}
+
+@media screen and (max-width:520px) {
+    .oragebg {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        text-align: center;
+    }
+}
+@media screen and (max-width:1000px) {
+    .sublast {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+      width: 100%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .Contactc {
+     text-align: center;
+    }
+}
+@media screen and (max-width:400px) {
+    .lastsubsvg {
+        display: flex;
+   flex-direction: column;
+   align-items: center;
+    }
+}
+@media screen and (max-width:400px) {
+    .lastbutton {
+        display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+    }
+}

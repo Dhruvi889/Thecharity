@@ -1,0 +1,471 @@
+.firstbg1 {
+    background-color: #ff4800;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    gap: 140px;
+    font-size: 15px;
+}
+
+.mail {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.btn1 {
+    background-color: #262222;
+    color: white;
+    padding: 20px;
+    width: 180px;
+    border: none;
+    font-size: 15px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.mainatag {
+    display: flex;
+    gap: 30px;
+
+}
+
+.home {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 19px;
+    color: black;
+}
+
+.bgimg {
+    background-image: url(./news-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 220px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 50px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.hrtag {
+    background-color: #ff4700;
+    font-weight: 600;
+    width: 5%;
+    border-radius: 30px;
+    height: 4px;
+    margin-top: 0 !important;
+    display: flex;
+    justify-content: start;
+}
+
+#home1 {
+    color: #ff4800;
+
+}
+
+.main1st {
+    width: 69%;
+}
+
+.submarch12 {
+
+    padding: 50px;
+}
+
+.Marchc {
+    color: #ff4800;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+.subiconc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cLorem {
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+
+.Readbtn {
+    background-color: #ff4700;
+    color: white;
+    padding: 15px;
+    width: 170px;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+.superchilds {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 60px;
+}
+
+.Search {
+    border: 1px solid #e0e0e0;
+    color: gray;
+    width: 250px;
+    padding: 18px;
+    text-align: start;
+    background-color: transparent;
+    font-size: 15px;
+
+}
+
+.go {
+    background-color: #ff4700;
+    color: white;
+    border: none;
+    width: 70px;
+    padding: 18px;
+}
+
+.mainbtn {
+    display: flex;
+    gap: 0;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.Popular {
+    margin-bottom: 40px;
+}
+
+.firstimg {
+    display: flex;
+    justify-content: start;
+    gap: 30px;
+}
+
+.marchpara {
+    color: #ff4800;
+}
+
+.anewc {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.Fundraiser {
+    display: flex;
+    justify-content: start;
+    gap: 30px;
+    align-items: center;
+}
+
+.funnpara {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.Aug {
+    font-size: 15px;
+}
+
+.Upcoming {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.Causesa {
+    background-color: white;
+    width: 362px;
+    padding: 30px;
+    border: 1px solid #e0e0e0;
+}
+
+.bringl {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bringfont {
+    font-size: 23px;
+}
+
+.Raised {
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    margin-top: 30px;
+}
+
+.Featured {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.mainlast {
+    background-color: #262222;
+    color: white;
+    padding: 50px;
+    margin-top: 0;
+}
+
+.sublast {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+.lastimgs {
+    width: 25%;
+}
+
+.lastLorem {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.lastsvg {
+    display: flex;
+    justify-content: start;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.Privacy {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.Privacy1 {
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.lastsubsvg {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: start;
+}
+
+.colorsvgs {
+    color: #ff4700;
+}
+
+.yourmail {
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    text-align: start;
+    border: none;
+}
+
+.SEND {
+    background-color: #ff4700;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    border: none;
+}
+
+.lastbutton {
+    display: flex;
+    justify-content: start;
+    gap: 0;
+    margin-top: 30px;
+}
+
+.Copyright {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width:800px) {
+    .firstbg1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .mail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .logo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .mainatag {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .superchilds {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .img1st {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:840px) {
+    .subiconc {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width:840px) {
+    .cLoremmain {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .mainbtn {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .mainbtn {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Popular {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .firstimg {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:356px) {
+    .firstimg {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Upcoming {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Featured {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .Fundraiser {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .mainimgn {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .sublast {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Contactc {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .lastsubsvg {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .lastbutton {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}

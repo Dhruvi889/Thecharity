@@ -1,0 +1,403 @@
+.firstbg1 {
+    background-color: #ff4800;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    gap: 140px;
+    font-size: 15px;
+}
+
+#home1 {
+    color: #ff4800;
+
+}
+
+.mail {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.btn1 {
+    background-color: #262222;
+    color: white;
+    padding: 20px;
+    width: 180px;
+    border: none;
+    font-size: 15px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.mainatag {
+    display: flex;
+    gap: 30px;
+
+}
+
+.home {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 19px;
+    color: black;
+}
+
+.bgimg {
+    background-image: url(./about-bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 220px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 50px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.hrtag {
+    background-color: #ff4700;
+    font-weight: 600;
+    width: 5%;
+    border-radius: 30px;
+    height: 4px;
+    margin-top: 0 !important;
+    display: flex;
+    justify-content: start;
+}
+
+.Featured {
+    padding: 50px;
+}
+
+.graybgcolor {
+    background-color: #edf3f5;
+    padding: 30px;
+
+}
+
+.mainfund {
+    display: flex;
+    gap: 20px;
+}
+
+.kids {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+}
+
+.paraaug {
+    display: flex;
+    justify-content: start;
+    gap: 5px;
+    margin-top: 0;
+}
+
+.for {
+    margin-bottom: 0 !important;
+    margin-top: 5px;
+}
+
+.aug {
+    font-size: 13px;
+}
+
+.mainnowbtn {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.nowbtn {
+    background-color: #ff4700;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    width: 150px;
+    padding: 15px;
+}
+
+.Raised {
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    margin-top: 30px;
+}
+
+.maingraybgcolor {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 50px;
+    padding-top: 10px;
+}
+
+.maincause {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 50px;
+}
+
+.Causesa {
+    background-color: white;
+    width: 362px;
+    padding: 30px;
+    border: 1px solid #e0e0e0;
+}
+
+.bringl {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bringfont {
+    font-size: 23px;
+}
+
+.blckbgcolorcls {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 100px;
+    gap: 30px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.welove {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.Dolor {
+    margin-bottom: 40px;
+}
+
+.Donatebtn {
+    background-color: #ff4700;
+    color: white;
+    width: 180px;
+    padding: 15px;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.mainDonatebtn {
+    margin-top: 40px;
+}
+
+.mainlast {
+    background-color: #262222;
+    color: white;
+    padding: 50px;
+    margin-top: 0;
+}
+
+.sublast {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+.lastimgs {
+    width: 25%;
+}
+
+.lastLorem {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.lastsvg {
+    display: flex;
+    justify-content: start;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.Privacy {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.Privacy1 {
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.lastsubsvg {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: start;
+}
+
+.colorsvgs {
+    color: #ff4700;
+}
+
+.yourmail {
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    text-align: start;
+    border: none;
+}
+
+.SEND {
+    background-color: #ff4700;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    border: none;
+}
+
+.lastbutton {
+    display: flex;
+    justify-content: start;
+    gap: 0;
+    margin-top: 30px;
+}
+
+.Copyright {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width:800px) {
+    .firstbg1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .mail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .logo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .mainatag {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .maingraybgcolor {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Featured {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:546px) {
+    .mainfund {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+
+    }
+}
+
+@media screen and (max-width:546px) {
+    .kids {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .maincause {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .blckbgcolorcls {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .sublast {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+      width: 100%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .Contactc {
+     text-align: center;
+    }
+}
+@media screen and (max-width:400px) {
+    .lastsubsvg {
+        display: flex;
+   flex-direction: column;
+   align-items: center;
+    }
+}
+@media screen and (max-width:400px) {
+    .lastbutton {
+        display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+    }
+}

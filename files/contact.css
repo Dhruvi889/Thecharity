@@ -1,0 +1,377 @@
+.firstbg1 {
+    background-color: #ff4800;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    gap: 140px;
+    font-size: 15px;
+}
+
+.mail {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.btn1 {
+    background-color: #262222;
+    color: white;
+    padding: 20px;
+    width: 180px;
+    border: none;
+    font-size: 15px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.mainatag {
+    display: flex;
+    gap: 30px;
+
+}
+
+.home {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 19px;
+    color: black;
+}
+
+.bgimg {
+    background-image: url(./news-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 220px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 50px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.hrtag {
+    background-color: #ff4700;
+    font-weight: 600;
+    width: 5%;
+    border-radius: 30px;
+    height: 4px;
+    margin-top: 0 !important;
+    display: flex;
+    justify-content: start;
+}
+
+#home1 {
+    color: #ff4800;
+
+}
+
+.getinc {
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 40px;
+}
+
+.Loremc {
+    width: 100%;
+}
+
+.getincwid {
+    width: 50%;
+}
+
+.divsvgs {
+    display: flex;
+    justify-content: start;
+    gap: 40px;
+    color: #ff4700;
+    margin-top: 40px;
+
+}
+
+.Privacy {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.lastsubsvg {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: center;
+}
+
+.colorsvgs {
+    color: #ff4700;
+}
+
+.lastbgcolor {
+    background-color: #edf3f5;
+
+    padding: 20px;
+    width: 100%;
+    margin-top: 70px;
+}
+
+.maingetinc {
+    display: flex;
+    justify-content: ;
+
+}
+
+.inputwid {
+    width: 90%;
+    padding: 15px;
+    margin: 10px;
+    border: none;
+    font-size: 15px;
+}
+
+#msg {
+    height: 150px;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    text-align: start;
+}
+
+.btncon {
+    background-color: #ff4700;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.maibtncon {
+    display: flex;
+    justify-content: center;
+}
+
+.lastparacc {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    padding-left: 50px;
+}
+
+.mainlast {
+    background-color: #262222;
+    color: white;
+    padding: 50px;
+    margin-top: 0;
+}
+
+.sublast {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+.lastimgs {
+    width: 25%;
+}
+
+.lastLorem {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.lastsvg {
+    display: flex;
+    justify-content: start;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.Privacy {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.Privacy1 {
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.lastsubsvg {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: start;
+}
+
+.colorsvgs {
+    color: #ff4700;
+}
+
+.yourmail {
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    text-align: start;
+    border: none;
+}
+
+.SEND {
+    background-color: #ff4700;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    border: none;
+}
+
+.lastbutton {
+    display: flex;
+    justify-content: start;
+    gap: 0;
+    margin-top: 30px;
+}
+
+.Copyright {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.mainlastbgcolor{
+    width: 44%;
+}
+
+@media screen and (max-width:800px) {
+    .firstbg1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .mail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .logo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .mainatag {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:930px) {
+    .maingetinc {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:930px) {
+    .getinc {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+
+    }
+}
+
+@media screen and (max-width:930px) {
+    .Privacy {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+
+    }
+}
+
+@media screen and (max-width:930px) {
+    .lastbgcolor {
+        width: 80%;
+
+    }
+}
+
+@media screen and (max-width:930px) {
+    .mainlastbgcolor {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+width: 100%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .lastparacc {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .sublast {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .Contactc {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .lastsubsvg {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .lastbutton {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}

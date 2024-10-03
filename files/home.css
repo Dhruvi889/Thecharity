@@ -1,0 +1,690 @@
+.firstbg1 {
+    background-color: #ff4800;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    gap: 140px;
+    font-size: 15px;
+}
+
+.mail {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.btn1 {
+    background-color: #262222;
+    color: white;
+    padding: 20px;
+    width: 180px;
+    border: none;
+    font-size: 15px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.mainatag {
+    display: flex;
+    gap: 30px;
+
+}
+
+.home {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 19px;
+    color: black;
+}
+
+#home1 {
+    color: #ff4800;
+
+}
+
+#icon {
+    background-color: #ff4800;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.hands {
+    background-color: #ecf2f5;
+    width: 30%;
+    padding: 50px;
+    border-radius: 30px;
+    text-align: center;
+
+
+}
+
+#hands1 {
+    background-color: #ff4700;
+    color: white;
+}
+
+.maincharity {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 80px;
+
+}
+
+.Become {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.blckbg {
+    background-color: black;
+    color: white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+
+}
+
+.hrtag1 {
+    background-color: #ff4700;
+    font-weight: 600;
+    width: 12%;
+    border-radius: 30px;
+    height: 4px;
+    margin-top: 0;
+    display: flex;
+    justify-content: start;
+}
+
+
+.hrtag {
+    background-color: #ff4700;
+    font-weight: 600;
+    width: 12%;
+    border-radius: 30px;
+    height: 4px;
+    margin-top: 0;
+    display: flex;
+    justify-content: start;
+}
+
+.welcome {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.btnread {
+    background-color: #ff4700;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    width: 180px;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.wel {
+    margin-bottom: 0 !important;
+}
+
+.mainupcoming {
+    width: 50%;
+}
+
+.Fundraiser {
+    display: flex;
+    justify-content: start;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.mainpara {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    margin-top: 0;
+}
+
+.lorem {
+    color: gray;
+    font-size: 15px;
+}
+
+.readmore {
+    color: #ff4700;
+}
+
+.superupcoming {
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 15px;
+
+}
+
+.graybgcolor {
+    background-color: #edf3f5;
+    padding: 30px;
+
+}
+
+.aug {
+    font-size: 13px;
+}
+
+.mainfund {
+    display: flex;
+    gap: 20px;
+}
+
+.kids {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+}
+
+.paraaug {
+    display: flex;
+    justify-content: start;
+    gap: 5px;
+    margin-top: 0;
+}
+
+.for {
+    margin-bottom: 0 !important;
+    margin-top: 5px;
+}
+
+.nowbtn {
+    background-color: #ff4700;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    width: 150px;
+    padding: 15px;
+}
+
+.upcome {
+    margin-bottom: 50px;
+}
+
+.mainnowbtn {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.Raised {
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    margin-top: 30px;
+}
+
+.bgimgfrist {
+    background-image: url(./cause-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+    padding: 30px;
+    padding-top: 70px;
+    width: 100%;
+    background-color: #edeff1;
+}
+
+.mainour {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.maincause {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Causesa {
+    background-color: white;
+    width: 365px;
+    padding: 30px;
+}
+
+.bringl {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.maindove {
+    display: flex;
+    justify-content: start;
+    gap: 40px;
+}
+
+.mainwea {
+    width: 50%;
+    padding: 20px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.wed {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.mainteam {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: end;
+}
+
+.teamwork {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.mainlast {
+    background-color: #262222;
+    color: white;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+.lastLorem {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.lastimgs {
+    width: 25%;
+}
+
+.sublast {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+.lastsvg {
+    display: flex;
+    justify-content: start;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.Privacy {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.Privacy1 {
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.march {
+    color: #ff4700;
+}
+
+.lastsubsvg {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: start;
+}
+
+.bgimgdivs {
+    background-image: url(./hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 500px;
+    color: white;
+    padding: 50px;
+}
+
+.subbgdix {
+    width: 50%;
+}
+
+.donatec {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.better {
+    font-size: 40px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.Loremipsum {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.DonateNow {
+    color: white;
+    background-color: #ff4700;
+    padding: 15px;
+    width: 180px;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.ReadMore {
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 15px;
+    width: 180px;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+    color: white;
+}
+
+.colorsvgs {
+    color: #ff4700;
+}
+
+.yourmail {
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    text-align: start;
+    border: none;
+}
+
+.SEND {
+    background-color: #ff4700;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    border: none;
+}
+
+.lastbutton {
+    display: flex;
+    justify-content: start;
+    gap: 0;
+    margin-top: 30px;
+}
+
+.Copyright {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width:800px) {
+    .firstbg1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .mail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .logo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .mainatag {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .bgimgdivs {
+        height: 700px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .bgimgdivs {
+        height: 900px;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .subbgdix {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .Loremipsum {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .maincharity {
+        flex-direction: column;
+        align-items: center;
+
+    }
+}
+
+@media screen and (max-width:850px) {
+    .hands {
+
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .blckbg {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .welcome {
+        text-align: center;
+
+    }
+}
+
+@media screen and (max-width:900px) {
+    .welimg {
+        width: 100%;
+
+    }
+}
+
+@media screen and (max-width:900px) {
+    .mainwlimgg {
+        margin-top: 20px;
+
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .superupcoming {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100% !important;
+
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .upcome {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+
+@media screen and (max-width:1000px) {
+    .Fundraiser {
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+    }
+}
+@media screen and (max-width:1000px) {
+    .lorem {
+       width: 100%;
+    }
+} */
+@media screen and (max-width:900px) {
+    .upcome {
+        display: flex;
+        justify-content: center;
+    }
+}
+@media screen and (max-width:1000px) {
+    .mainfund {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+@media screen and (max-width:1000px) {
+    .kids {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .graybgcolor {
+     width: 100%;
+    }
+} 
+@media screen and (max-width:1000px) {
+    .maincause {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .bgimgfrist {
+        height: 1800px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .mainour {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .maindove {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media screen and (max-width:1000px) {
+    .mainwea {
+      width: 100%;
+      text-align: center;
+    }
+}
+@media screen and (max-width:516px) {
+    .mainteam {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+    }
+}
+@media screen and (max-width:1000px) {
+    .sublast {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+      width: 100%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .Contactc {
+     text-align: center;
+    }
+}
+@media screen and (max-width:400px) {
+    .lastsubsvg {
+        display: flex;
+   flex-direction: column;
+   align-items: center;
+    }
+}
+@media screen and (max-width:400px) {
+    .lastbutton {
+        display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+    }
+}
+@media screen and (max-width:1000px) {
+    .mainupcoming {
+     width: 100%;
+    }
+}@media screen and (max-width:1000px) {
+    .mainupcoming {
+     width: 100%;
+    }
+}
